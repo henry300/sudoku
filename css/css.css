@@ -1,0 +1,21 @@
+table {
+    width: 400px;
+    margin: 0 auto;
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+input[type="text"] {
+    width: 40px;
+    height: 40px;
+    border: none;
+    font: 20px 'Lato', sans-serif;
+    text-align: center;
+}
+input[type="submit"] {
+    margin: 10px auto;
+    display: block;
+    width: 400px;
+    height: 40px;
+}
